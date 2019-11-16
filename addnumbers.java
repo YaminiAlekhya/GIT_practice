@@ -4,7 +4,7 @@ class addnumbers
 {
 	public statis void main(String args[])
 	{
-		int x=20;
+		int x=30;
 		int y=10;
 		int z;
 		z=x+y;
