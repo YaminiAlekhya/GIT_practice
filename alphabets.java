@@ -4,6 +4,7 @@ class alphabets
 	{
 		char ch;
 		for (ch='a';ch<='z';ch++);
+		for (ch='a';ch<='z';ch++);
 		System.out.println(ch);
 	}
 }
