@@ -6,6 +6,7 @@ class addnumbers
 	{
 		int x=30;
 		int y=20;
+		int y=20;
 		int z;
 		z=x+y;
 		System.out.println("sum of x and y is " +z);
